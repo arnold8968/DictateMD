@@ -5,6 +5,7 @@ This project aims to classify medical transcriptions into various specialties us
 
 ## Features:
 * Data Loading & Overview
+
 * Preprocessing 
   * Handling NaNs
   * Oversampling for Imbalance
